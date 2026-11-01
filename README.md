@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<table>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/anshumanbahekar/anshumanbahekar/blob/main/metrics-cwa-calendar.svg">
+      <img width="900" height="1" alt="">
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="metrics-repositories.svg">
+      <img width="900" height="1" alt="">
+    </td>
+  </tr>
+<tr>
+</tr>
+  <br>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img alt="" src="metrics.svg">
+      <img alt="">
+    </td>
+  </tr>
+</table>
