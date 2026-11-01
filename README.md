@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<details>
-<summary>Stats</summary>
+
 <table>
   <tr>
     <td align="center">
@@ -38,4 +37,3 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-</details>
