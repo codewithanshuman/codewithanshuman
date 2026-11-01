@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       <img width="900" height="1" alt="">
     </td>
     <td align="center">
-      <img alt="" width="400" src="metrics-repositories.svg">
+      <img alt="" width="400" src="https://github.com/anshumanbahekar/anshumanbahekar/blob/main/metrics-cwa-repositories.svg">
       <img width="900" height="1" alt="">
     </td>
   </tr>
