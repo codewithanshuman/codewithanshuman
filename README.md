@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details>
+  <summary>Stats</summary>
 <table>
   <tr>
     <td align="center">
