@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
   <tr>
     <td colspan="2" align="center">
-      <img alt="" src="metrics.svg">
+      <img alt="" src="https://github.com/anshumanbahekar/anshumanbahekar/blob/main/metrics-cwa.svg">
       <img alt="">
     </td>
   </tr>
